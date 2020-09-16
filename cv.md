@@ -8,7 +8,7 @@
         let last = str.length - 1; 
         str = str.substring(1,last);//You got this!
      return str;
-     };
+     }
  ``````` 
  
  ##### Contact Information 
