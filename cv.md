@@ -1,7 +1,5 @@
-![CV photo](https://i.pinimg.com/originals/78/e7/1a/78e71a00e9ffaf666d1eb0f1044fe5f6.png) 
- 
- 
- # Plotko Marina 
+![CV photo](https://cosplayfu-website.s3.amazonaws.com/_Photo/character/mini/13974_249374.jpg) 
+  # Plotko Marina 
  ### Junior Front-end Developer 
  ##### My code example: 
  [Codewars acaunt](https://www.codewars.com/users/Plotko/completed_solutions) 
