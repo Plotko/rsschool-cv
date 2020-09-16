@@ -1,1 +1,1 @@
-# rsschool-cv
+https://plotko.github.io/rsschool-cv/cv
