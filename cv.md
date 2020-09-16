@@ -39,7 +39,3 @@
  * Polish A2
  ##### Marital status 
  Married, have one child 6 years old.
-
-https://plotko.github.io/rsschool-cv/cv 
-
-https://plotko.github.io/rsschool-cv/cv
